@@ -45,7 +45,9 @@
 ## Frameworks and Libraries
 
 <p>
-   <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-B2A573?logo=hibernate&logoColor=B2A573&color=black&labelColor=black"></a>
+  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-B2A573?logo=hibernate&logoColor=B2A573&color=black&labelColor=black"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB></a>
+
 </p>
 
 ## Operating Systems
