@@ -48,6 +48,8 @@
   <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-B2A573?logo=hibernate&logoColor=B2A573&color=black&labelColor=black"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 	</a>
+	<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+	</a>
 </p>
 
 ## Operating Systems
@@ -55,6 +57,7 @@
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/Mac_Os-000000?logo=apple&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 
 ## Databases and Cloud hosting
