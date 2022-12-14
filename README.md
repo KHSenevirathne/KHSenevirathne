@@ -10,7 +10,7 @@
  ```python
   class WhoAmI:
     user = 'Kaveesh Senevirathne'
-    current_work = ["Arya_Labs"]
+    work = ["Arya_Labs"]
 	current_edu = ("IDM", "IJSE", "UoM")
     currently_learning = {1:"React-Native", 2:"Spring", 3:"JS"}
     fun_fact = "I love Chillies, can't Eat"
