@@ -10,9 +10,9 @@
  ```python
   class WhoAmI:
     user = 'Kaveesh Senevirathne'
-    work = ["FreeLancing"]
-	current_edu = ("IDM", "IJSE", "UoM")
-    currently_learning = {1:"React-Native", 2:"Spring", 3:"JS"}
+    work = ["News 1st Capital Maharaja", "Out-Sourcing", "FreeLancing"]
+	current_edu = ("IDM", "IJSE", "UoM", "UoBolton")
+    currently_learning = {1:"AI", 2:"Machine Learning", 3:"Cyber Security"}
     fun_fact = "I love Chillies, can't Eat"
 	hobbies = ['Music', 'Politics', 'Gaming', 'Sci-Fi Document']
 	
@@ -20,7 +20,7 @@
 		return Galle_SriLanka()
 	
 	def Ambitions():
-		BecomeEngineer()
+		BecomeSeniorEngineer()
 		FinishMyProjects()
 
  ```
